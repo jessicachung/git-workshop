@@ -1,0 +1,10 @@
+There are the following files in this repo:
+
+- index.md
+	- the index (main web page) for the Github Pages website
+- readme.md
+	- the readme file for the project
+- todo.txt
+	- list of items todo regarding BCC 2020
+- files.txt
+	- list of files and purpose in this project
